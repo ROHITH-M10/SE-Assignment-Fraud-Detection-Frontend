@@ -4,6 +4,7 @@ import About from './about.jsx';
 import Top from './top.jsx';
 import Updates from './updates.jsx';
 import Footer from './footer.jsx';
+import Planning from './planning.jsx';
 
 const Landing = () => {
   return (
@@ -11,6 +12,7 @@ const Landing = () => {
       <Top />
       <Updates />
       <About />
+      <Planning />
       <Faq />
       <Footer />
     </div>

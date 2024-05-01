@@ -48,7 +48,7 @@ const Team = () => {
                         <p>Product Owner</p>
 
                         <ul>
-                        <li><a href="https://www.linkedin.com/in/rohith-m-profilein/" target='_blank'><i className="fa-brands fa-linkedin-in">CONTACT</i></a></li>
+                        <li><a href="https://github.com/adhvaithsankar" target='_blank'><i className="fa-brands fa-linkedin-in">CONTACT</i></a></li>
 
                         </ul>
                     </div>
