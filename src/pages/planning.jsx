@@ -18,10 +18,10 @@ const Planning = () => {
               <div className="testimonial-wrap">
                 <div className="testimonial">
                   <p>
-                  Easy Interface <br />
-                  Assignment Overview <br />
-                  Plagiarism Check <br />
-                  Privacy Measures <br />
+                  - Easy Interface <br />
+                  - Assignment Overview <br />
+                  - Plagiarism Check <br />
+                  - Privacy Measures <br />
                   </p>
                 </div>
                 <cite className="testimonial-author">
@@ -44,10 +44,10 @@ const Planning = () => {
               <div className="testimonial-wrap">
                 <div className="testimonial">
                   <p>
-                   x<br />
-                   x<br />
-                   x<br />
-                   x<br />
+                  - Assignment Overview<br />
+                   - x<br />
+                   - x<br />
+                   - x<br />
                   </p>
                 </div>
                 <cite className="testimonial-author">
@@ -69,10 +69,10 @@ const Planning = () => {
               <div className="testimonial-wrap">
                 <div className="testimonial">
                   <p>
-                  Reset Password Easily<br />
-                  Friendly Interface <br />
-                  Effortless Submission <br />
-                  Track Submissions<br />
+                  - Reset Password Easily<br />
+                  - Friendly Interface <br />
+                  - Effortless Submission <br />
+                  - Track Submissions<br />
                   </p>
                 </div>
                 <cite className="testimonial-author">
@@ -95,10 +95,10 @@ const Planning = () => {
               <div className="testimonial-wrap">
                 <div className="testimonial">
                   <p>
-                Reset Password Easily<br />
-                  Attendance Tracking<br />
-                  View Past Assignments<br />
-                  Report Fairness Issues<br />
+                  - Reset Password Easily<br />
+                  - Attendance Tracking<br />
+                  - View Past Assignments<br />
+                  - Report Fairness Issues<br />
                   </p>
                 </div>
                 <cite className="testimonial-author">
@@ -121,10 +121,10 @@ const Planning = () => {
               <div className="testimonial-wrap">
                 <div className="testimonial">
                   <p>
-                   Effortless Submissions<br />
-                  Track Due Dates<br />
-                  Authenticity Checks<br />
-                  Report Fairness Issues<br />
+                  - Effortless Submissions<br />
+                  - Track Due Dates<br />
+                  - Authenticity Checks<br />
+                  - Report Fairness Issues<br />
                   </p>
                 </div>
                 <cite className="testimonial-author">
