@@ -1,6 +1,7 @@
 import React from 'react';
 import '../components/top.css';
 import { Link } from 'react-router-dom';
+import logo from '../assets/logo.png';
 
 
 const Top = () => {
@@ -8,7 +9,8 @@ const Top = () => {
     <header className='top-header'>
       <nav>
         <div className="logo">
-          <h1 className="">
+          <h1 className="logo-top">
+            <img src={logo} alt="" />
             <a href="#" className='Name' style={{color:'#00b894'}}>Overflow</a>
           </h1>
         </div>

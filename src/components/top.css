@@ -134,7 +134,19 @@ nav .menu a:first-child {
     90% { content: "Dubai"; }
     100% { content: "New York"; }
 }
+.logo-top{
+    display: flex;
+    flex-direction: row;
+}
+.logo-top img{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    margin-left: 20px;
+    border: 2px solid #00b894;
+    border-radius: 50%;
 
+}
 .logo a {
     text-decoration: none;
     color: white;

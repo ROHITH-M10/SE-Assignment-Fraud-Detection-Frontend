@@ -1,12 +1,16 @@
 import React from 'react';
 import '../components/footer.css'; 
+import logo from '../assets/logo.png';
 
 const Footer = () => {
     
   return (
     <footer className="footer">
       <div className="footer__container bd-container">
+        <div className="mylogo-title">
+        <img src={logo} alt="Logo" />
         <h2 className="footer__title">Overflow</h2>
+        </div>
         <p class="update-footer-description">Your destination for expert solutions.</p>
 
         <div className="footer__social">
